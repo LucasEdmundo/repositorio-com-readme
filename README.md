@@ -1,7 +1,7 @@
 # Projeto com README
 um projeto de teste com um arquivo README ✔
 
-<img src="/.tela.gif" alt="gif da tela inicial do projeto Naruto">
+[<img src="/.tela.gif" alt="gif da tela inicial do projeto Naruto">]
 
 ## Tecnologias utilizadas
 - HTML
